@@ -1,7 +1,7 @@
-# _{Application Name}_
+# Web page about Pets
 
-#### By _**{List of contributors}**_
+#### By _**Gulzat Karimova and Manasa Vesala**_
 
 ## Description
 
-This project is about creating web page to describe our favorite pets.
+This project is about creating web page to describe our favorite pets.  
